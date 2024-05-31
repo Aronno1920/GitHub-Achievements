@@ -1,5 +1,12 @@
 # 🛡️ GitHub Profile Achievements
 
+<div align="center">
+  <img src="https://badges.pufler.dev/visits/Aronno1920/GitHub-Achievements" alt="Years Badge">
+  <img src="https://badges.pufler.dev/updated/Aronno1920/GitHub-Achievements" alt="Repos Badge">
+  <img src="https://badges.pufler.dev/created/Aronno1920/GitHub-Achievements" alt="Gists Badge">
+</div>
+<br/><br/>
+
 This repository includes a collection of every single badge on GitHub, and how to obtain each one of them. Some of them are obtainable, not obtainable, or still in beta testing. This repository orders the badges from `Very Easy` to `Easy` to `Medium` and finally `Hard`.
 
 GitHub Badges were added after the launch of the first Mars Helicopter, [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)).
